@@ -1,0 +1,25 @@
+Diferencias de condicional
+
+if = Es cuando queremos verificar una unica condicion
+
+ifelse = cuando queremos verificar dos condiciones 
+
+ifelse ifelse = cuando quremos verificar varias condiciones 
+
+switch case = cuando queremos verificar n cantidad de condiciones 
+
+
+
+if; la pc corre bien el sistema operativo 
+
+ifelse; si el sistema operativo esta bien y si esta mal chequear cual es el problema
+
+ifelse; verificar si corre bien todos los software de la pc
+
+switch case; ver si todo el software y software corre bien 
+
+
+
+
+
+
