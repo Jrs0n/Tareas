@@ -1,7 +1,7 @@
 
 var mes = 10;
 
-if ( mes == 12 || mes== 1 || mes == 2 ){
+if ( mes == 12 ||  mes== 1 || mes == 2 ){
   console.log("invierno");
 }else if (mes >=3 && mes <= 5){
   console.log("Primavera");
